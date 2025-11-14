@@ -23,3 +23,5 @@ Project Overview
     1.Crystalline stability up to ~50 K indicated by sharp RDF peaks and oscillatory VACF.
     2.Near 100 K, RDF peak broadening and VACF decay show loss of long-range order → onset of liquid-like behavior.
     3.Energy and pressure trends agree with expected Lennard-Jones solid–liquid transition behavior.
+
+Code and detailed analysis will be added to this repository soon.
